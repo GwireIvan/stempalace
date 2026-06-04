@@ -42,7 +42,9 @@ export default function Footer() {
               </div>
             </div>
             <div>
-              <h3>Contact</h3>
+              <h3>
+                <Link to="/contact">Contact</Link>
+              </h3>
               <p>Plot 2090 Ndiwulira Road, Mbalwa Kiira, Kampala</p>
               <p>Contact: 0781514157 or 0709174397</p>
               <p>Email: info.stempalace@gmail.com</p>

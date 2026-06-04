@@ -828,6 +828,15 @@ textarea {
   color: var(--text);
 }
 
+.site-footer h3 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.site-footer h3 a:hover {
+  color: var(--teal);
+}
+
 .site-footer .footer-brand img {
   border-color: rgba(7, 21, 34, 0.14);
   box-shadow: 0 16px 34px rgba(7, 21, 34, 0.12);
